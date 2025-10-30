@@ -416,6 +416,8 @@ BCI는 인간의 한계를 치유합니다.
 <img width="1024" height="1374" alt="ChatGPT Image 2025년 10월 30일 오전 10_32_51" src="https://github.com/user-attachments/assets/cd14579f-abfa-4af8-bf17-26519b7efe61" />
 <img width="1024" height="1024" alt="ChatGPT Image 2025년 10월 30일 오전 11_49_36" src="https://github.com/user-attachments/assets/e73ddf75-6fba-4266-a298-0c5f701a7327" />
 
+<img width="1484" height="2103" alt="ai_future_poster" src="https://github.com/user-attachments/assets/f9fafcc2-a290-41e0-b143-7ecbb7d47f50" />
+
 - 기관/부서 인터뷰 ✔️  
 
 - 현장 탐방 ✔️  
