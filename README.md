@@ -418,8 +418,6 @@ BCI는 인간의 한계를 치유합니다.
 
 <img width="1484" height="2103" alt="ai_future_poster" src="https://github.com/user-attachments/assets/f9fafcc2-a290-41e0-b143-7ecbb7d47f50" />
 
-https://docs.google.com/presentation/d/1X8PfV8XxQHvTvY9njrTr8SsSsiScmkI1/edit?usp=drive_link&ouid=107054514959463346957&rtpof=true&sd=true
-
 - 기관/부서 인터뷰 ✔️  
 
 - 현장 탐방 ✔️  
